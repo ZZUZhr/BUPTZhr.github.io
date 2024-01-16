@@ -18,10 +18,6 @@ I received my Ph.D. degree in computer science and technology (2023.06) from the
 
 
 
-<!-- I am in the National Engineering Research Center of Mobile Network Security in BUPT as a research intern, supervised by [Prof. Guoshun Nan (南国顺)](https://scholar.google.com/citations?user=uSykWkMAAAAJ&hl=en). -->
-
-
-<!-- Before starting my Ph.D. career, I was a research intern at [Baidu Research](http://research.baidu.com/), supervised by [Prof. Hui Xiong](http://datamining.rutgers.edu/) and collaborate with Baidu Talent Intelligence Center, supervised by [Dr. Hengshu Zhu](https://www.zhuhengshu.com/). Moreover, I was a research intern at DKI Group, [Microsoft Research Asia](https://www.msra.cn/) supervised by [Dr. Shizhao Sun](https://www.linkedin.com/in/%E8%AF%97%E6%98%AD-%E5%AD%99-771b42141/), and a research assistant at [HIT-DBLab](http://db.hit.edu.cn/) supervised by [Prof. Hongzhi Wang](http://homepage.hit.edu.cn/wang). I also did research with [Prof. Jia Li](https://sites.google.com/view/lijia) and [Dr. Yu Rong](https://hk.linkedin.com/in/royrong). -->
 
 
 
@@ -29,23 +25,23 @@ I received my Ph.D. degree in computer science and technology (2023.06) from the
 
 <img src="https://staymylove.github.io/images/bupto.png" style="height: 80px; width: 80px" align="left">
 
-**Beijing University of Posts and Telecommunications**(2020.09-2024.06)
-- **B.E.** in School of Information and Communication Engineering
+**Beijing University of Posts and Telecommunications**(2013.09-2017.06)
+- **B.E.** in School of Electronic Engineering 
 
 <br>
 
-<img src="https://staymylove.github.io/images/zidonghua.png" style="height: 80px; width: 80px" align="left">
+<img src="https://staymylove.github.io/images/bupto.png" style="height: 80px; width: 80px" align="left">
 
-**Institute of Automation, Chinese Academy of Sciences**(2023.03-2023.06)
-- **Research Assistant**
+**Beijing University of Posts and Telecommunications**(2017.09-2023.06)
+- **Ph.D.** State Key Laboratory of Networking and Switching Technology Computer Science Department
 
 <br>
 
 <img src="https://staymylove.github.io/images/jisuansuo.png" style="height: 80px; width: 80px" align="left">
 
-**Institute of Computing Technology, Chinese Academy of Sciences**(2023.06-2023.09)
+**Advanced Institute of Big Data, Beijing**(2023.12-2023.01)
 - **Research Assistant**
-
+<!--
 <br>
 
 <img src="https://staymylove.github.io/images/cuhk.png" style="height: 80px; width: 80px" align="left">
@@ -63,7 +59,7 @@ I received my Ph.D. degree in computer science and technology (2023.06) from the
 - \[2022.08\] Our work on "adversarial attacks for semantic communication" is accepted by "2022 IEEE 96th Vehicular Technology Conference".
 - \[2022.05\] I join in the National Engineering Research Center of Mobile Network Security in BUPT as a research intern.
 - \[2021.05\] I join in the State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecomunications.
-
+//-->
 
 # Selected Rewards
 - **China National Endeavor Scholarship** 2021,2022,2023, Ministry of Education of China
