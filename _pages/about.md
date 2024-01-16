@@ -10,11 +10,11 @@ redirect_from:
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=gzn00417.github.io) -->
 
-Welcome to [Zeju Li (李泽钜)](https:/staymylove.github.io/) 's homepage!
+Welcome to [Hongru Zhao (赵鸿儒)](https:/BUPTZhr.github.io/) 's homepage!
 
-I'm a senior student at School of information and communication engineering 'class for talent' in Beijing University of Posts and Telecommunications(BUPT). I have an excellent performance in BUPT, my GPA is 3.73 and I got China National Endeavor Scholarship(2021,2022,2023), outstanding student award, and best paper award nomination. My research interests include Computer Vision, AIGC, 3D-LLM and Multimodality. Here is my latest [curriculum vitae](https://staymylove.github.io/cv/).
+I received my Ph.D. degree in computer science and technology (2023.06) from the Beijing University of Posts and Telecommunications (BUPT), China. My Ph.D. thesis advisor is Prof. Xiuquan Qiao. I got BSc degree from Beijing of Posts and Telecommunication University in 2017. My research was focused on visual odometry (VO), visual-inertial odometry (VIO) and Depth Estimation. I am now intrested in leveraging the power of human to undertand and interpret the artificial intelligence models. All my works aim to make very positive contributions to improving the performance and robustness of machine learning systems. Here is my latest [curriculum vitae](https:/BUPTZhr.github.io/cv/).
 
-**I am actively looking for academic collaboration, feel free to drop me an email. (lizeju0727@gmail.com)**
+**I am looking for a research position at colleges or companies, feel free to drop me an email. (zhaohrbupt@gmail.com or zhaohongru@bupt.cn)**
 
 
 
