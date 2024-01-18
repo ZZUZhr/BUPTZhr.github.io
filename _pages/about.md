@@ -23,21 +23,21 @@ I received my Ph.D. degree in computer science and technology (2023.06) from the
 
 # Education
 
-<img src="https://staymylove.github.io/images/bupto.png" style="height: 80px; width: 80px" align="left">
+<img src="https://BUPTZhr.github.io/images/bupto.png" style="height: 80px; width: 80px" align="left">
 
 **Beijing University of Posts and Telecommunications**(2013.09-2017.06)
 - **B.E.** in School of Electronic Engineering 
 
 <br>
 
-<img src="https://staymylove.github.io/images/bupto.png" style="height: 80px; width: 80px" align="left">
+<img src="https://BUPTZhr.github.io/images/bupto.png" style="height: 80px; width: 80px" align="left">
 
 **Beijing University of Posts and Telecommunications**(2017.09-2023.06)
 - **Ph.D.** State Key Laboratory of Networking and Switching Technology Computer Science Department
 
 <br>
 
-<img src="https://staymylove.github.io/images/jisuansuo.png" style="height: 80px; width: 80px" align="left">
+<img src="https://BUPTZhr.github.io/images/AIBD.png" style="height: 80px; width: 80px" align="left">
 
 **Advanced Institute of Big Data, Beijing**(2023.12-2024.01)
 - **Research Assistant**
