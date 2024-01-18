@@ -39,7 +39,7 @@ I received my Ph.D. degree in computer science and technology (2023.06) from the
 
 <img src="https://staymylove.github.io/images/jisuansuo.png" style="height: 80px; width: 80px" align="left">
 
-**Advanced Institute of Big Data, Beijing**(2023.12-2023.01)
+**Advanced Institute of Big Data, Beijing**(2023.12-2024.01)
 - **Research Assistant**
 <!--
 <br>
@@ -59,12 +59,14 @@ I received my Ph.D. degree in computer science and technology (2023.06) from the
 - \[2022.08\] Our work on "adversarial attacks for semantic communication" is accepted by "2022 IEEE 96th Vehicular Technology Conference".
 - \[2022.05\] I join in the National Engineering Research Center of Mobile Network Security in BUPT as a research intern.
 - \[2021.05\] I join in the State Key Laboratory of Networking and Switching Technology, Beijing University of Posts and Telecomunications.
-//-->
+-->
 
-# Selected Rewards
-- **China National Endeavor Scholarship** 2021,2022,2023, Ministry of Education of China
-- **Singapore International Pre-Graduate Award (SIPGA)** 2023, A STAR of Singapore
-- **People's Daily Scholarship [(人民网奖学金)](http://yjy.people.com.cn/n1/2023/1214/c441532-40139097.html)** 2023, People's Daily Online of China
+# Academic Scholarships
+- **Reserve Scholarship for Outstanding Doctoral Students** 2019
+- **Outstanding Graduate Student of State Key Laboratory of Network and Switching Technology** 2022
+- **First Prize Scholarship (Top 10%), Beijing University of PostsandTelecommunications.** 2021
+-  **Outstanding graduates of BUPT.** 2021，2022，2023
+  <!-- 
 - **[Best Paper Nomination Award](https://tc.computer.org/tclt/icalt-2023-best-paper-award-nominations/)** 2023, The IEEE Technical Community on Learning Technology
 
 
@@ -76,6 +78,15 @@ I received my Ph.D. degree in computer science and technology (2023.06) from the
 - **Zeju Li**, Jinfei Zhou, Guoshun Nan* , Zhichun Li, Qimei Cui, Xiaofeng Tao. SemBAT: Physical Layer Black-box Adversarial Attacks for Deep Learning-based Semantic Communication Systems. *2022 IEEE 96th Vehicular Technology Conference.* **(VTC 2022-fall)** [[pdf]](https://ieeexplore.ieee.org/document/10012766)
 - Xinghan Liu, Guoshun Nan*, Qimei Cui, **Zeju Li**, Peiyuan Liu, Zebin Xing, Hanqing Mu, Yuanwei Liu, Xiaofeng Tao. SemProtector: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems. **(IEEE Communciation Magazine)(SCI Q1)**[[pdf]](https://ieeexplore.ieee.org/document/10328183)
 - Zhiyuan Wu, Sheng Sun, Min Liu, Quyang Pan, Junbo Zhang, Yuwei Wang*, **Zeju Li**, and Qingxiang Liu. Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Distillation. **(ACM Transactions on Intelligent Systems and Technology)(CAA Rank A、SCI Q1)**[[pdf]](https://arxiv.org/abs/2204.07028)
+-->
+# Publications
+
+- YaKun Huang, **Hongru Zhao**, Xiuquan Qiao, Jian Tang, and Ling Liu. Towards Video Streaming Analysis and Sharing for Multi-Device Interaction with Lightweight DNNS. *IEEE International Conference on Computer Communications.* **(InfoCom 2021)(CCF-A，Co-Author)**[[pdf]](https://ieeexplore.ieee.org/document/9488846)
+- **Hongru Zhao**, Xiuquan Qiao. Graph Attention Network-optimized Dynamic Monocular Visual Odometry.*Applied Intelligence.* **(SCI Q2,IF=5.086)** [[pdf]](https://link.springer.com/article/10.1007/s10489-023-04687-1)
+- **Hongru Zhao**, Xiuquan Qiao. Transformer-based Self-supervised Monocular Depth and Visual Odometry.*IEEE Sensors.* **(SCI Q2,IF=4.352)** [[pdf]](https://ieeexplore.ieee.org/document/9979761)
+- Jinguang Wang, Tingting Yang, **Hongru Zhao**. Approximate tracking control for nonlinear multi-player systems with deferred asymmetric time-varying full-state constraints. *ISA Transactions.* **(SCI Q2,IF=7.3)** 
+- Boyuan Bai, Xiuquan Qiao, **Hongru Zhao**. Two Grids are Better than One: Hybrid Indoor Scene Reconstruction Frame with Adaptive Priors. *IEEE Conference on Computer Vision and Pattern Recognition.* **(CVPR2024 2021)(CCF-A)**
+
 
 <br />
 <div style="text-align: center; line-height: 100px">
