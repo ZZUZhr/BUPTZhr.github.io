@@ -12,7 +12,7 @@ redirect_from:
 
 Welcome to [Hongru Zhao (赵鸿儒)](https:/BUPTZhr.github.io/) 's homepage!
 
-I received my Ph.D. degree in computer science and technology (2023.06) from the Beijing University of Posts and Telecommunications (BUPT), China. My Ph.D. thesis advisor is Prof. Xiuquan Qiao. I got BSc degree from Beijing of Posts and Telecommunication University in 2017. My research was focused on visual odometry (VO), visual-inertial odometry (VIO) and Depth Estimation. I am now interested in leveraging the power of human to undertand and interpret the artificial intelligence models. All my works aim to make very positive contributions to improving the performance and robustness of machine learning systems. Here is my latest [curriculum vitae](https:/BUPTZhr.github.io/cv/).
+I received my Ph.D. degree in computer science and technology (2023.06) from the Beijing University of Posts and Telecommunications (BUPT), China. My Ph.D. thesis advisor is Prof. Xiuquan Qiao. I got BSc degree from Beijing of Posts and Telecommunication University in 2017. My research was focused on Visual Odometry (VO), Visual-Inertial odometry (VIO), Video Understanding and Depth Estimation. I am now interested in leveraging the power of human to undertand and interpret the artificial intelligence models. All my works aim to make very positive contributions to improving the performance and robustness of machine learning systems. Here is my latest [curriculum vitae](https:/BUPTZhr.github.io/cv/).
 
 **I am looking for a research position at colleges or companies, feel free to drop me an email. (zhaohrbupt@gmail.com or zhaohongru@bupt.cn)**
 
