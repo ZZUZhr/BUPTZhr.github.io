@@ -10,105 +10,32 @@ redirect_from:
 {% include base_path %}
 
 - Senior, Class for talent, Beijing University of Posts and Telecommunications
-- E-Mail: lizeju@bupt.edu.cn ; lizeju0727@gmail.com
+- E-Mail: zhaohongru@bupt.edu.cn ; zhaohrbupt@gmail.com
 
 ## Education
 
-- 2020.09- Now ~ Beijing University of Posts and Telecommunications(BUPT)
-  - School of information and communication engineering, Communication Engineering, Class for talent
-
-## Internships
-
-- 2021.06-2022.12 Intelligent System Research Group in BUPT
-  - Interests: NLP and Knowledge graph (Mentor: Chunhong Zhang)
-  - Duty:  I have studied the Pytorch, Linux, and NLP models. We proposed an automated knowledge extraction for data extraction, data cleaning, and graph fusion
-framework over 100 knowledge graphs. The paper got **best paper award nomination in ICALT2023**.
-
-- 2022.05-Now National Engineering Research Center of Mobile Network Security in BUPT
-  - Interest: Multimodal and Semantic communication (Mentor: Prof. Guoshun Nan and Xiaofeng Tao)
-  - Duty: I do research in multimodal information fusion and semantic communication systems. We proposed channel-layer black-box attack method targeting semantic communication systems and a unified framework for semantic protection. Our 3 papers have been accepted by **VTC2022fall, ICC2023 and IEEE Communication Magazine**. In 2023, we proposed a multimodal semantic communication system that utilizes text information assisting in image transmission and reconstruction.
-
-- 2023.03-2023.05 Graph Data Mining and Machine Learning Lab (GAMMA Lab) in BUPT
-
-  - Interest: Data Mining and GNN (Mentor: Prof. Chuan Shi)
-  - Duty: I study GNN and graph data mining.I do research and coding for papers in the CCF-A conferences of GNN model.
-
-- 2023.04-2023.07 The National Laboratory of Pattern Recognition (NLPR) at the Institute of Automation of the Chinese Academy of Sciences (CASIA).
-
-  - Interest: Diffusion model and AI4Science. 
-  - Duty: I do research in diffusion model, AIG and AI4Science.
-
-- 2023.07-Now GAP Lab, Chinese University of Hong Kong (Shenzhen)
-
-  - Interest: AIGC and 3d generation. (Prof.Xiaoguang Han)
-  - Duty: I do research in image and 3d generation methods such as zero123, T2I-Adapter
-and Clipasso. We work on the topic ’Sketch to 3D’, using text prompts and simple
-sketch to controllable generate high-quality 3D objects. Our paper will submit to
-SIGGRAPH2024.
-
-- 2023.08-Now Beĳing Shuyuan Technology Co., Ltd
-  - Interest: multi-modal, 3d scene understanding and LLM.
-  - Duty: I do research in understanding and perception of 3D scenes, and inject visual and
-multi-modal information into LLM to create a multi-modal 3D LLM. The 3D LLM can perceive and understand the scene and the relationships between objects within the scene, making downstream tasks (segmentation, QA, positioning)
-more effective. Our work is available at https://arxiv.org/abs/2401.03201. I will focus on the topic of 3D-LLM which can understand and generate 3D.
-
-
+- 2017.09-2023.06 Beijing University of Posts and Telecommunications(BUPT)
+  - State Key Laboratory of Networking and Switching Technology Computer Science Department, Ph.D
+- 2013.09-2017.06 Beijing University of Posts and Telecommunications(BUPT)
+  - School of Electronic Engineering, B.S
 
 
 ## Publications
-- **Zeju Li**, Chao Zhang, Xiaoyan Wang, Ruilong Ren, Yifan Xu, Ruifei Ma, Xiangde Liu. 3DMIT: 3D Multi-modal Instruction Tuning for Scene Understanding. Under Review, [[pdf]](https://arxiv.org/abs/2401.03201) [[code]](https://github.com/staymylove/3DMIT)
-- **Zeju Li**, Xinghan Liu, Guoshun Nan* , Jinfei Zhou, Xinchen Lyu, Qimei Cui, Xiaofeng Tao. Boosting Physical Layer Black-Box Attacks with Semantic Adversaries in Semantic Communications. *Proceedings of the International Communication Conference.* **(ICC 2023)(Communication top conference)** [[pdf]](https://ieeexplore.ieee.org/document/10278790)
-- **Zeju Li**, Linya Cheng, Chunhong Zhang, Xinning Zhu, Hui ZhaoMulti-source Education Knowledge Graph Construction and Fusion for College Curricula.*Proceedings of the  IEEE International Conference on Advanced Learning Technologies.* **(ICALT 2023)(AI+education top conference)** [[pdf]](https://ieeexplore.ieee.org/document/10328183)
-- **Zeju Li**, Jinfei Zhou, Guoshun Nan* , Zhichun Li, Qimei Cui, Xiaofeng Tao. SemBAT: Physical Layer Black-box Adversarial Attacks for Deep Learning-based Semantic Communication Systems. *2022 IEEE 96th Vehicular Technology Conference.* **(VTC 2022-fall)** [[pdf]](https://ieeexplore.ieee.org/document/10012766)
-- Xinghan Liu, Guoshun Nan*, Qimei Cui, **Zeju Li**, Peiyuan Liu, Zebin Xing, Hanqing Mu, Yuanwei Liu, Xiaofeng Tao. SemProtector: A Unified Framework for Semantic Protection in Deep Learning-based Semantic Communication Systems. **(IEEE Communciation Magazine)(SCI Q1)**[[pdf]](https://ieeexplore.ieee.org/document/10328183)
-- Zhiyuan Wu, Sheng Sun, Min Liu, Quyang Pan, Junbo Zhang, Yuwei Wang*, **Zeju Li**, and Qingxiang Liu. Exploring the Distributed Knowledge Congruence in Proxy-data-free Federated Distillation. **(ACM Transactions on Intelligent Systems and Technology)(CAA Rank A、SCI Q1)**[[pdf]](https://arxiv.org/abs/2204.07028)
+- YaKun Huang, **Hongru Zhao**, Xiuquan Qiao, Jian Tang, and Ling Liu. Towards Video Streaming Analysis and Sharing for Multi-Device Interaction with Lightweight DNNS. *IEEE International Conference on Computer Communications.* **(InfoCom 2021)(CCF-A，Co-Author)**[[pdf]](https://ieeexplore.ieee.org/document/9488846)
+- **Hongru Zhao**, Xiuquan Qiao. Graph Attention Network-optimized Dynamic Monocular Visual Odometry.*Applied Intelligence.* **(SCI Q2,IF=5.086)** [[pdf]](https://link.springer.com/article/10.1007/s10489-023-04687-1)
+- **Hongru Zhao**, Xiuquan Qiao. Transformer-based Self-supervised Monocular Depth and Visual Odometry.*IEEE Sensors.* **(SCI Q2,IF=4.352)** [[pdf]](https://ieeexplore.ieee.org/document/9979761)
+- Jinguang Wang, Tingting Yang, **Hongru Zhao**. Approximate tracking control for nonlinear multi-player systems with deferred asymmetric time-varying full-state constraints. *ISA Transactions.* **(SCI Q2,IF=7.3)** 
+- Boyuan Bai, Xiuquan Qiao, **Hongru Zhao**. Two Grids are Better than One: Hybrid Indoor Scene Reconstruction Frame with Adaptive Priors. *IEEE Conference on Computer Vision and Pattern Recognition.* **(CVPR 2024)(CCF-A)**
+- **Hongru Zhao**, Xiuquan Qiao, Zhijie Tan, Yan Li, Heng Sun. Loosely Coupled Visual-Inertial Odometry based on Spatial-Temporal Two-Stream Convolution and Long Short-Term MemoryNetworks.**Chinese Journal of Computers.** [[pdf]](http://cjc.ict.ac.cn/online/bfpub/zhr-2022315142248.pdf)
 
 
 ## Awards
 
-- Best Paper Award Nomination by The IEEE Technical Community on Learning Technology(2023) [[certificate]](https://tc.computer.org/tclt/icalt-2023-best-paper-award-nominations/)
+- **Reserve Scholarship for Outstanding Doctoral Students** 2019
+- **Outstanding Graduate Student of State Key Laboratory of Network and Switching Technology** 2022
+- **First Prize Scholarship (Top 10%), Beijing University of Posts and Telecommunications.** 2021
+-  **Outstanding graduates of BUPT.** 2021，2022，2023
 
-- Singapore International Pre-Graduate Award(SIPGA)
-
-- People’s Daily Scholarship 2023
-  
-- China National Endeavor Scholarship (2021,2022,2023)
-  
-- The 1st prize of the National Software and Information Technology Professionals Competition of python program design in the Blue Bridge Cup[[certificate]](https://staymylove.github.io/files/蓝桥杯一.jpg)
-  
-- The 1st prize of the 9th China International "Internet plus" Undergraduate Innovation and Entrepreneurship Competition
-
-- The 1st prize of Innovation and Entrepreneurship Practice Achievement Exhibition and Exchange Conference for College Students[[certificate]](https://staymylove.github.io/files/大创展一等奖.jpg)
-
-- The 1st prize of "Foreign Language Teaching Society · Word Talent Cup" National College Students' English Vocabulary Ability Competition[[certificate]](https://staymylove.github.io/files/校一等奖.jpg)
-  
-- The 2nd prize of the 33rd Beijing University Student Mathematics Competition [[certificate]](https://staymylove.github.io/files/数学北京二等奖.jpg)
-
-- The 2nd prize of National Education Cup National Undergraduate Mathematics Competition [[certificate]](https://staymylove.github.io/files/华教杯决赛二等奖.jpg)
-
-- The 2nd prize of the National College Student New Generation Information and Communication Technology Competition of Datang Cup [[certificate]](https://staymylove.github.io/files/大唐杯.png)
-
-- The 2nd prize of Chinese Chemistry Olympiad[[certificate]](https://staymylove.github.io/files/化学竞赛.jpg)
-
-- The 3rd prize of National Undergraduate Mathematics Competition [[certificate]](https://staymylove.github.io/files/数学全国三等奖.jpg)
-
-- The 3rd prize of physics competition of Beijing University of Posts and Telecommunications in 2021 [[certificate]](https://staymylove.github.io/files/物理竞赛.jpg)
-
-- The 3rd prize of Young Goose Program Innovation and Entrepreneurship Competition Final [[certificate]](https://staymylove.github.io/files/获奖证书.jpg)
-
-- Excellence Award of Internet plus Innovation and Entrepreneurship Competition in Beijing [[certificate]](https://staymylove.github.io/files/互联网+优秀奖.jpg)
-
-
-
-
-<!-- - - The M Prize of American University Mathematical Modeling Competition in 2022 [[certificate]](https://staymylove.github.io/files/李泽钜M奖.pdf)2022年美国大学生数学建模竞赛                             M奖[curriculum vitae](https://staymylove.github.io/cv/).
-- 全国软件和信息技术专业人才大赛蓝桥杯python程序设计大学A组  一等奖
-- 第三十三届北京市大学生数学竞赛                           二等奖
-- 第五届华教杯全国大学生数学竞赛                           二等奖
-- 第十四届全国大学生数学竞赛                              三等奖
-- 2021年北京邮电大学物理竞赛                              三等奖
-- 第五届北京邮电大学雏雁计划决赛                           三等奖
-- 北京市互联网+创新创业大赛                               优秀奖 -->
 
 ## Projects
 - The Smart Wardrobe based on deep learning
