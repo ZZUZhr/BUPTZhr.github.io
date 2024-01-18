@@ -47,8 +47,8 @@ I received my Ph.D. degree in computer science and technology (2023.06) from the
 - **Outstanding Graduate Student of State Key Laboratory of Network and Switching Technology** 2022
 - **First Prize Scholarship (Top 10%), Beijing University of Posts and Telecommunications.** 2021
 -  **Outstanding graduates of BUPT.** 2021，2022，2023
-# Publications
 
+# Publications
 - YaKun Huang, **Hongru Zhao**, Xiuquan Qiao, Jian Tang, and Ling Liu. Towards Video Streaming Analysis and Sharing for Multi-Device Interaction with Lightweight DNNS. *IEEE International Conference on Computer Communications.* **(InfoCom 2021)(CCF-A，Co-Author)**[[pdf]](https://ieeexplore.ieee.org/document/9488846)
 - **Hongru Zhao**, Xiuquan Qiao. Graph Attention Network-optimized Dynamic Monocular Visual Odometry.*Applied Intelligence.* **(SCI Q2,IF=5.086)** [[pdf]](https://link.springer.com/article/10.1007/s10489-023-04687-1)
 - **Hongru Zhao**, Xiuquan Qiao. Transformer-based Self-supervised Monocular Depth and Visual Odometry.*IEEE Sensors.* **(SCI Q2,IF=4.352)** [[pdf]](https://ieeexplore.ieee.org/document/9979761)
