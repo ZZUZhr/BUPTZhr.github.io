@@ -38,15 +38,16 @@ redirect_from:
 
 
 ## Projects
-- The Smart Wardrobe based on deep learning
+- Research on the basic theory and key technologies of cloud-based Web AR services based on 5G cloud-edge-device collaboration
 
-  - Abstract: The intelligent wardrobe has a built-in clothing protection function by an intelligent temperature and humidity control module in the wardrobe; Moreover, the app can query the real-time weather and temperature conditions to recommend clothes suitable for users to wear today through internet.
-  - Duty: Mainly responsible for algorithm
+  - Abstract: This project focuses on cloud-based Web SLAM with efficient cloud-edge collaboration based on 5G, Web-oriented cloud-edge-assisted 3D target recognition and scene perception, and on-demand loading and dynamic rendering of large scene models.
+  - Duty: Exploring a fundamental and flexible pose estimation framework, running on the common web platform, and providing the core capability to enable true Web AR; exploring an end-to-end loosely coupled visual-inertial odometry based on deep neural networks to solve pose estimation in ubiquitous mobile AR for heterogeneous devices.
 
 
-- The learning assistant "byr" based on deep learning
-  - Abstract: A software with the main functions of exercise recommendation system, personnel activity question-answering system, course knowedge retrieval system, mathematical formula recognition and recording the results in the back-end and database.
-  - Duty: Mainly responsible for algorithm and the backend by django 
+- Winter Olympics Smart Venue Construction—Research on Lightweight AR/VR Applications
+  - Abstract: An entire WebAR system which provided users a markerless AR experience and was experienced in Beijing
+2022 Winter Olympics. The system can be smoothly run on the majority of smartphones with a perfect balance of data communication and heavy computation.
+  - Duty: Mainly responsible for designing an architecture of pose estimation with a single-thread Visual-Inertial Odometry (VIO) algorithm to avoid the sophisticated multi-threading management to adapt to different browsers and further improve the efficiency. 
 
 - Research of 3D multimodal-LLM by injecting 3D scenes and objects
   - Abstract: This project proposes to combine the reasoning and dialogue capabilities of 3D visual perception models and Large Language Models (LLM) to achieve a universal multimodal-LLM for 3D
