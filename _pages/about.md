@@ -39,14 +39,16 @@ I received my Ph.D. degree in computer science and technology (2023.06) from the
 
 <img src="https://BUPTZhr.github.io/images/AIBD.png" style="height: 80px; width: 80px" align="left">
 
-**Advanced Institute of Big Data, Beijing**(2023.12-2024.01)
+**Advanced Institute of Big Data, Beijing**(2023.04-2024.01)
 - **Research Assistant**
+
 
 # Academic Scholarships
 - **Reserve Scholarship for Outstanding Doctoral Students** 2019
 - **Outstanding Graduate Student of State Key Laboratory of Network and Switching Technology** 2022
 - **First Prize Scholarship (Top 10%), Beijing University of Posts and Telecommunications.** 2021
 -  **Outstanding graduates of BUPT.** 2021，2022，2023
+
 
 # Publications
 - YaKun Huang, **Hongru Zhao**, Xiuquan Qiao, Jian Tang, and Ling Liu. Towards Video Streaming Analysis and Sharing for Multi-Device Interaction with Lightweight DNNS. *IEEE International Conference on Computer Communications.* **(InfoCom 2021)(CCF-A，Co-Author)**[[pdf]](https://ieeexplore.ieee.org/document/9488846)
