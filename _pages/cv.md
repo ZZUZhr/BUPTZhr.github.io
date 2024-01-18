@@ -41,7 +41,7 @@ redirect_from:
 - Research on the basic theory and key technologies of cloud-based Web AR services based on 5G cloud-edge-device collaboration
 
   - Abstract: This project focuses on cloud-based Web SLAM with efficient cloud-edge collaboration based on 5G, Web-oriented cloud-edge-assisted 3D target recognition and scene perception, and on-demand loading and dynamic rendering of large scene models.
-  - Duty: Exploring a fundamental and flexible pose estimation framework, running on the common web platform, and providing the core capability to enable true Web AR; exploring an end-to-end loosely coupled visual-inertial odometry based on deep neural networks to solve pose estimation in ubiquitous mobile AR for heterogeneous devices.
+  - Duty: Mainly responsible for exploring a fundamental and flexible pose estimation framework, running on the common web platform, and providing the core capability to enable true Web AR; exploring an end-to-end loosely coupled visual-inertial odometry based on deep neural networks to solve pose estimation in ubiquitous mobile AR for heterogeneous devices.
 
 
 - Winter Olympics Smart Venue Construction—Research on Lightweight AR/VR Applications
@@ -49,26 +49,9 @@ redirect_from:
 2022 Winter Olympics. The system can be smoothly run on the majority of smartphones with a perfect balance of data communication and heavy computation.
   - Duty: Mainly responsible for designing an architecture of pose estimation with a single-thread Visual-Inertial Odometry (VIO) algorithm to avoid the sophisticated multi-threading management to adapt to different browsers and further improve the efficiency. 
 
-- Research of 3D multimodal-LLM by injecting 3D scenes and objects
-  - Abstract: This project proposes to combine the reasoning and dialogue capabilities of 3D visual perception models and Large Language Models (LLM) to achieve a universal multimodal-LLM for 3D
-scenes. And we sovle the problem of unbalance of visual and language training. We align and fuse
-the features of the text image pair with the segmented objects in the corresponding 3D scene at a
-fine-grained level. After that, the features of the relative position relationship matrix between objects were obtained using the coordinates of each object in the scene. Finally, the language model is
-injected with multimodal knowledge (features) as learnable visual tokens to be added to the language
-tokens in the middle of each Transformer layer of the LLM to fine-tune and train the 3D multimodal
-large model of this project.
-
-
-
-- Semantic communication robustness based on adversarial learning and deep learning
-  - Abstract: We propose a practical physical layer black-box attack method for deep learning-based semantic communication systems, where the adversaries are imperceptible to humans. Our work has been accepted by ICC2023.
-  - Duty: Mainly responsible for algorithm design, conduct experiments and paper writing
-
-
-
-- Research of discipline knowledge graphs in the field of Electronic Information
-  - Abstract:  We propose an automated knowledge extraction, visual knowledge graph construction in Neo4j and graph fusion framework for Electronic Information. Moreover, we develop other functions such as exercise recommendation system, personnel activity question-answering system, course knowedge retrieval system and mathematical formula recognition.
-  - Duty: Mainly responsible for knowledge graphs construction, data cleaning, graphs fusion and paper writing.
+- Design of panoramic roaming operation and maintenance visualization system based on Web VR
+  - Abstract: This project proposes and implements industrial Internet digital twin visualization based on immersive Web panoramic VR, including real-time dynamic display technology based on image modeling and rendering, combining digital twins with three-dimensional panoramic technology to integrate the digital world with the real world. Integration integrates various security management and monitoring-related information into the three-dimensional panoramic interactive display system in real-time to achieve unified asset security operation and maintenance management.
+  - Duty: Mainly responsible for developing a speed skating hall navigation introduction system based on Web AR three-dimensional panorama (speed skating hall venue introduction, ice and snow sports knowledge, sports equipment, sports actions, etc.) and a graphic and text information display system for Beijing University of Posts and Telecommunications enrollment promotion.
 
 
 <!-- - 第五届雏雁计划 智能衣柜 雏雁计划优秀项目
