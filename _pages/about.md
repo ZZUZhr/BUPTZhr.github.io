@@ -56,6 +56,7 @@ I received my Ph.D. degree in computer science and technology (2023.06) from the
 - **Hongru Zhao**, Xiuquan Qiao. Transformer-based Self-supervised Monocular Depth and Visual Odometry.*IEEE Sensors.* **(SCI Q2,IF=4.352)** [[pdf]](https://ieeexplore.ieee.org/document/9979761)
 - Jinguang Wang, Tingting Yang, **Hongru Zhao**. Approximate tracking control for nonlinear multi-player systems with deferred asymmetric time-varying full-state constraints. *ISA Transactions.* **(SCI Q2,IF=7.3)** 
 - Boyuan Bai, Xiuquan Qiao, **Hongru Zhao**. Two Grids are Better than One: Hybrid Indoor Scene Reconstruction Frame with Adaptive Priors. *IEEE Conference on Computer Vision and Pattern Recognition.* **(CVPR 2024)(CCF-A)**
+- **Hongru Zhao**, Xiuquan Qiao, Zhijie Tan, Yan Li, Heng Sun. Loosely Coupled Visual-Inertial Odometry based on Spatial-Temporal Two-Stream Convolution and Long Short-Term MemoryNetworks.**Chinese Journal of Computers.** [[pdf]](http://cjc.ict.ac.cn/online/bfpub/zhr-2022315142248.pdf)
 
 
 <br />
