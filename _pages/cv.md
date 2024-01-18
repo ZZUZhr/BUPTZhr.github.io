@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-- Senior, Class for talent, Beijing University of Posts and Telecommunications
+- Ph.D, Beijing University of Posts and Telecommunications
 - E-Mail: zhaohongru@bupt.edu.cn ; zhaohrbupt@gmail.com
 
 ## Education
