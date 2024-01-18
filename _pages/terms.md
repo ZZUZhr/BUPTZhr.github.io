@@ -6,7 +6,7 @@ author_profile: true
 
 
 <p align="center">
-  <img src="https://BUPTZhr.github.io/images/AIBD.png" style="height: 50px; width:200px">
+  <img src="https://BUPTZhr.github.io/images/AIBD.png" style="height: 80px; width:80px">
 </p>                  
 - 2023.04-2024.01 Advanced Institute of Big Data, Beijing         
           
