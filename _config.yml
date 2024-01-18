@@ -7,13 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zeju Li(李泽钜)"
+title                    : "Hongru Zhao(赵鸿儒)"
 title_separator          : "-"
-name                     : &name "Zeju Li"
-description              : &description "Senior student at BUPT"
-url                      : https://staymylove.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Hongru Zhao"
+url                      : https://BUPTZhr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "staymylove/staymylove.github.io"
+repository               : "BUPTZhr/BUPTZhr.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +79,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zeju Li 李泽钜"
+  name             : "Hongru Zhao 赵鸿儒"
   avatar           : "profile.png"
-  bio              : "Senior @BUPT"
+  bio              : "PH.D  @BUPT"
   location         : "Beijing China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=fn8w4lgAAAAJ"
-  email            : "lizeju0727@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : 
+  email            : "zhaohrbupt@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "staymylove"
+  github           : "BUPTZhr"
   google_plus      :
   keybase          :
   instagram        :
