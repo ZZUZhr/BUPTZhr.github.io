@@ -23,7 +23,7 @@ I received my Ph.D. degree in computer science and technology (2023.06) from the
 
 # Education
 
-<img src="https://BUPTZhr.github.io/images/HFUT.png" style="height: 80px; width: 80px" align="left">
+<img src="https://BUPTZhr.github.io/images/HFUT.jpg" style="height: 80px; width: 80px" align="left">
 
 **Hefei University of Technology**(2013.09-2017.06)
 - **B.E.** in School of Electronic Engineering 
